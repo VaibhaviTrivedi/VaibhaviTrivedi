@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhaviTrivedi
-- 👀 I’m interested in becoming a Data Analyst.
-- 🌱 I’m currently learning SQL and R. 
+- 👀 I wanna become a Data Scientist.
+- 🌱 I’m currently improving SQL and R skills. 
 - 📫 How to reach me - on LinkedIn https://www.linkedin.com/in/vaibhavi-trivedi-vt/
 
 <!---
